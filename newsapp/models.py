@@ -8,3 +8,4 @@ class UserInterest(models.Model):
         return self.interest
 
 # Create your models here.
+web: gunicorn blsdjangoproject.wsgi
