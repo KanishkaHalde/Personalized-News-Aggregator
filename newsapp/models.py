@@ -7,5 +7,4 @@ class UserInterest(models.Model):
     def __str__(self):
         return self.interest
 
-# Create your models here.
-web: gunicorn blsdjangoproject.wsgi
+# Create your models here
