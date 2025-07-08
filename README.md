@@ -26,14 +26,4 @@ A **Django-based web application** that allows users to select their interests a
 - **Deployment:** Render
 - **Language:** Python 3.13
 
----
 
-## 📂 Project Setup
-
-To run locally:
-
-1. **Clone the repo**
-
-```bash
-git clone https://github.com/YourUsername/YourRepoName.git
-cd YourRepoName
